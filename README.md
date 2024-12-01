@@ -1,7 +1,7 @@
 # AZ02_Data_transformation_Pandas_NumPy
  AZ02. Загрузка данных. Обработка пропущенных значений и дубликатов. Преобразование данных и работа с типами.
 
-[DZ_AZ02_Исследование оценок учеников.py](DZ_AZ02_%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BE%D0%BA%20%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.py)
+[DZ_AZ02_.py](DZ_AZ02_.py)
 
 [1_Pandas_Standart_nabor.py](1_Pandas_Standart_nabor.py)
 
