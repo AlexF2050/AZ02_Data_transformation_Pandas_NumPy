@@ -22,8 +22,9 @@ print('______________________________________')
 
 df['department'] = df['department'].cat.remove_categories(['HR'])
 print(df['department'].cat.categories)
+print('______________________________________')
+print(df)
 
-#
 # print(df['gender'].cat.categories)
 # print('______________________________________')
 # print(df['department'].cat.categories)
